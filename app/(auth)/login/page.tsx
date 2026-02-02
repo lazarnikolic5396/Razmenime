@@ -97,13 +97,6 @@ export default function LoginPage() {
 
   return (
     <div className="min-h-screen bg-[#FDF7F7] flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
-      <Link
-        href="/"
-        className="absolute top-6 left-6 text-[#333333] hover:text-[#E53935] transition-colors flex items-center"
-      >
-        ← Nazad na početnu
-      </Link>
-
       <Card className="w-full max-w-md" padding="lg">
         <div className="text-center mb-6">
           <div className="flex justify-center mb-4">
